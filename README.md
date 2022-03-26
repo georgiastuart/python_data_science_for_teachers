@@ -1,2 +1,2 @@
-# python_data_science_for_teachers
+# Python and Data Science for Teachers
 Python and data science introductory workshop for teachers.
